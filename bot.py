@@ -17,7 +17,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 # =========================
 
 FORCE_CHANNEL = "Xephiq"
-OWNER_ID = 123456789
+OWNER_ID = 72223165140
 
 ALLOWED_MENTIONS = [
     "@xephiq",
